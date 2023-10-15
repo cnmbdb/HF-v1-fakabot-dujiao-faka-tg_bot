@@ -9,7 +9,7 @@ TG自动/自助发卡机器人-后台连接独角数卡
 <!-- /wp:paragraph -->
 
 <!-- wp:zibllblock/postsbox -->
-<div data-pid="98" class="wp-block-zibllblock-postsbox">[postsbox post_id="98"]</div>
+<div data-pid="98" class="wp-block-zibllblock-postsbox"></div>
 <!-- /wp:zibllblock/postsbox -->
 
 <!-- wp:image {"align":"center","width":500,"height":500,"sizeSlug":"large"} -->
@@ -53,17 +53,17 @@ TG自动/自助发卡机器人-后台连接独角数卡
 <!-- /wp:paragraph -->
 
 <!-- wp:zibllblock/postsbox -->
-<div data-pid="288" class="wp-block-zibllblock-postsbox">[postsbox post_id="288"]</div>
+<div data-pid="288" class="wp-block-zibllblock-postsbox"></div>
 <!-- /wp:zibllblock/postsbox -->
 
 <!-- wp:zibllblock/postsbox -->
-<div data-pid="859" class="wp-block-zibllblock-postsbox">[postsbox post_id="859"]</div>
+<div data-pid="859" class="wp-block-zibllblock-postsbox"></div>
 <!-- /wp:zibllblock/postsbox -->
 
 <!-- wp:zibllblock/postsbox -->
-<div data-pid="255" class="wp-block-zibllblock-postsbox">[postsbox post_id="255"]</div>
+<div data-pid="255" class="wp-block-zibllblock-postsbox">]</div>
 <!-- /wp:zibllblock/postsbox -->
 
 <!-- wp:zibllblock/postsbox -->
-<div data-pid="862" class="wp-block-zibllblock-postsbox">[postsbox post_id="862"]</div>
+<div data-pid="862" class="wp-block-zibllblock-postsbox"></div>
 <!-- /wp:zibllblock/postsbox -->
