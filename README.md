@@ -61,9 +61,12 @@ TG自动/自助发卡机器人-后台连接独角数卡
 <!-- /wp:zibllblock/postsbox -->
 
 <!-- wp:zibllblock/postsbox -->
-<div data-pid="255" class="wp-block-zibllblock-postsbox">]</div>
+<div data-pid="255" class="wp-block-zibllblock-postsbox"></div>
 <!-- /wp:zibllblock/postsbox -->
 
 <!-- wp:zibllblock/postsbox -->
 <div data-pid="862" class="wp-block-zibllblock-postsbox"></div>
 <!-- /wp:zibllblock/postsbox -->
+
+
+联系TG客服：https://t.me/HFTGID
