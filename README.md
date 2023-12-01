@@ -15,7 +15,7 @@ TG自动/自助发卡机器人-后台连接独角数卡
 
 
 <!-- wp:image {"align":"center","sizeSlug":"large","className":"is-resized"} -->
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="https://input-s3.mn.input.im/donate-group/7/20230610/20230610_1686348840.png" alt=""/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="https://input-s3.mn.input.im/donate-group/7/20230423/20230423_1682238754.png" alt=""/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
