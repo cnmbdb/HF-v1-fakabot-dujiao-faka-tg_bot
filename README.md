@@ -12,9 +12,7 @@ TG自动/自助发卡机器人-后台连接独角数卡
 <p class="has-text-align-center">部署方式为<code>独角数卡</code>一样</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:zibllblock/postsbox -->
-<div data-pid="98" class="wp-block-zibllblock-postsbox">[postsbox post_id="98"]</div>
-<!-- /wp:zibllblock/postsbox -->
+
 
 <!-- wp:image {"align":"center","sizeSlug":"large","className":"is-resized"} -->
 <figure class="wp-block-image aligncenter size-large is-resized"><img src="https://input-s3.mn.input.im/donate-group/7/20230610/20230610_1686348840.png" alt=""/></figure>
@@ -80,21 +78,7 @@ TG自动/自助发卡机器人-后台连接独角数卡
 <p>如</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:zibllblock/postsbox -->
-<div data-pid="288" class="wp-block-zibllblock-postsbox">[postsbox post_id="288"]</div>
-<!-- /wp:zibllblock/postsbox -->
 
-<!-- wp:zibllblock/postsbox -->
-<div data-pid="859" class="wp-block-zibllblock-postsbox">[postsbox post_id="859"]</div>
-<!-- /wp:zibllblock/postsbox -->
-
-<!-- wp:zibllblock/postsbox -->
-<div data-pid="255" class="wp-block-zibllblock-postsbox">[postsbox post_id="255"]</div>
-<!-- /wp:zibllblock/postsbox -->
-
-<!-- wp:zibllblock/postsbox -->
-<div data-pid="862" class="wp-block-zibllblock-postsbox">[postsbox post_id="862"]</div>
-<!-- /wp:zibllblock/postsbox -->
 <!-- /wp:paragraph -->
 
 <!-- wp:zibllblock/buttons {"alignment":"center"} -->
